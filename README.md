@@ -81,6 +81,6 @@ Funcionalidades:
 
 ## 📫 Contato
 
-LinkedIn: seu-link-aqui
+LinkedIn:https://www.linkedin.com/in/r%C3%BAbialudmilla/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BGTUn7R2tTmCtYCC9XEUcvA%3D%3D
 
-Email: seu-email-aqui
+Email: rubialudmilla@gmail.com
