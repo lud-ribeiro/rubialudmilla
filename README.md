@@ -1,4 +1,4 @@
-# rubia ludmilla 
+# lud-ribeiro
 # Olá, eu sou Rúbia Ludmilla 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
