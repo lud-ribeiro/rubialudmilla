@@ -26,12 +26,13 @@ Tenho interesse em desenvolvimento web, banco de dados e criação de soluções
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
 </div>
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projetos em destaque:
 
 ### 🚌 Mapa Mobilidade
 
@@ -69,7 +70,7 @@ Funcionalidades:
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Atualmente estudando:
 
 - React + TypeScript
 - Banco de Dados
@@ -79,8 +80,10 @@ Funcionalidades:
 
 ---
 
-## 📫 Contato
+## 📫 Informações para contato:
 
 LinkedIn:https://www.linkedin.com/in/r%C3%BAbialudmilla/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BGTUn7R2tTmCtYCC9XEUcvA%3D%3D
 
-Email: rubialudmilla@gmail.com
+Email: rubialudmilla@gmail.com 
+
+Whatsapp:61986783899
