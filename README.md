@@ -103,6 +103,10 @@ Projeto desenvolvido para aplicar conceitos da linguagem PHP, utilizando program
   <img src="https://img.shields.io/badge/LinkedIn-Rúbia%20Ludmilla-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-Email: rubialudmilla@gmail.com 
+<a href="rubialudmilla@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contato-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+📍 Brasília - DF 🇧🇷
 
 Whatsapp:61986783899
