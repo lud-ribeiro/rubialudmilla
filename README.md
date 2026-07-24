@@ -1,5 +1,5 @@
 # lud-ribeiro
-# Olá, eu sou Rúbia Ludmilla 👋
+# Olá, eu sou a Rúbia Ludmilla 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Estagiária de TI na SEMOB/GDF  
