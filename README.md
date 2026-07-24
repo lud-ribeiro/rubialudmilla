@@ -68,8 +68,26 @@ Funcionalidades:
 - CSS
 - LocalStorage
 
----
+### 🌐 Sistema de Gestão Web Loja de acessórios
 
+Projeto desenvolvido para aplicar conceitos da linguagem PHP, utilizando programação estruturada e Programação Orientada a Objetos (POO) na construção de aplicações web.
+
+**Funcionalidades:**
+
+- Cadastro e manipulação de dados
+- Estruturação de páginas com PHP
+- Conexão com banco de dados
+- Aplicação de classes, objetos, métodos e encapsulamento
+- Organização de código seguindo conceitos de POO
+
+**Tecnologias:**
+- PHP
+- Programação Estruturada
+- PHP Orientado a Objetos (POO)
+- HTML
+- CSS
+- MySQL
+---
 ## 📚 Atualmente estudando:
 
 - React + TypeScript
