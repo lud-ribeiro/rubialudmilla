@@ -99,8 +99,9 @@ Projeto desenvolvido para aplicar conceitos da linguagem PHP, utilizando program
 ---
 
 ## 📫 Informações para contato:
-
-LinkedIn:https://www.linkedin.com/in/r%C3%BAbialudmilla/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BGTUn7R2tTmCtYCC9XEUcvA%3D%3D
+<a href="https://www.linkedin.com/in/r%C3%BAbia-ludmilla-013816260/">
+  <img src="https://img.shields.io/badge/LinkedIn-Rúbia%20Ludmilla-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
 Email: rubialudmilla@gmail.com 
 
